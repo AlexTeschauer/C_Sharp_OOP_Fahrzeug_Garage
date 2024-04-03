@@ -1,0 +1,14 @@
+D:\Programmieren\VS Code\C Sharp OOP Fahrzeug Garage\bin\Debug\net8.0\C Sharp OOP Fahrzeug Garage.exe
+D:\Programmieren\VS Code\C Sharp OOP Fahrzeug Garage\bin\Debug\net8.0\C Sharp OOP Fahrzeug Garage.deps.json
+D:\Programmieren\VS Code\C Sharp OOP Fahrzeug Garage\bin\Debug\net8.0\C Sharp OOP Fahrzeug Garage.runtimeconfig.json
+D:\Programmieren\VS Code\C Sharp OOP Fahrzeug Garage\bin\Debug\net8.0\C Sharp OOP Fahrzeug Garage.dll
+D:\Programmieren\VS Code\C Sharp OOP Fahrzeug Garage\bin\Debug\net8.0\C Sharp OOP Fahrzeug Garage.pdb
+D:\Programmieren\VS Code\C Sharp OOP Fahrzeug Garage\obj\Debug\net8.0\C Sharp OOP Fahrzeug Garage.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmieren\VS Code\C Sharp OOP Fahrzeug Garage\obj\Debug\net8.0\C Sharp OOP Fahrzeug Garage.AssemblyInfoInputs.cache
+D:\Programmieren\VS Code\C Sharp OOP Fahrzeug Garage\obj\Debug\net8.0\C Sharp OOP Fahrzeug Garage.AssemblyInfo.cs
+D:\Programmieren\VS Code\C Sharp OOP Fahrzeug Garage\obj\Debug\net8.0\C Sharp OOP Fahrzeug Garage.csproj.CoreCompileInputs.cache
+D:\Programmieren\VS Code\C Sharp OOP Fahrzeug Garage\obj\Debug\net8.0\C Sharp OOP Fahrzeug Garage.dll
+D:\Programmieren\VS Code\C Sharp OOP Fahrzeug Garage\obj\Debug\net8.0\refint\C Sharp OOP Fahrzeug Garage.dll
+D:\Programmieren\VS Code\C Sharp OOP Fahrzeug Garage\obj\Debug\net8.0\C Sharp OOP Fahrzeug Garage.pdb
+D:\Programmieren\VS Code\C Sharp OOP Fahrzeug Garage\obj\Debug\net8.0\C Sharp OOP Fahrzeug Garage.genruntimeconfig.cache
+D:\Programmieren\VS Code\C Sharp OOP Fahrzeug Garage\obj\Debug\net8.0\ref\C Sharp OOP Fahrzeug Garage.dll
